@@ -1,0 +1,20 @@
+# JustInvest Password File
+# Format: username:hash_string:role:metadata
+# DO NOT EDIT MANUALLY
+salOsahon:$argon2id$v=19$m=65536,t=3,p=4$vNKyY1OgSybdA9qRXFn8Yw$MTi49+d+Ipw/cLCLCouDvBe5w/62ON1waBrejBXXKnI:Premium Client:created=1764920645
+sashaKim:$argon2id$v=19$m=65536,t=3,p=4$HKFlfs4kLGuBfJVEMK/7dw$tZL1LrcvPKg/Z2FEvRmrLKpMTPSaJbnfVfwtMy8uBCs:Client:created=1764925281
+emeryBlake:$argon2id$v=19$m=65536,t=3,p=4$fKFKY2NGIvrOwLmfbIQglg$5ZJbdwRTiZxz1/KHf2jiAJ+QYMkjAeoTqele7RfId3U:Client:created=1764925281
+noorAbbasi:$argon2id$v=19$m=65536,t=3,p=4$YYs1nfnGoW5SzNOcDQm7IA$8XzECeGWnN089Npp8r8USzcEJU6YAobOu1kpTGXH38c:Premium Client:created=1764925281
+zuriAdebayo:$argon2id$v=19$m=65536,t=3,p=4$2eteT8DF4CGv9WNqdS1mQQ$2/7cNgq/S1f66DasN2/Ov9Bzh4KAA7QqEDswI6F7qWk:Premium Client:created=1764925281
+mikaelChen:$argon2id$v=19$m=65536,t=3,p=4$qxQDWE2G6k7A5yqR3Pe5Qg$DmoYBvx5YXFpPGUata24Dbq/Nzx4YUZxhW3SjyI7V7k:Financial Advisor:created=1764925281
+jordanRiley:$argon2id$v=19$m=65536,t=3,p=4$teILgiB1cYZhdF0uqGkwDQ$ad3dRkgnQ9zKuiVUjeu/MQvFPF03I5f8tgB+d0lsLFY:Financial Advisor:created=1764925281
+ellisNakamura:$argon2id$v=19$m=65536,t=3,p=4$7ybUNgbDcV+8UPbqWPrIyA$jya1SNDvbza6HPlD0SXMqyS2JSpcSPIP2wMIHUPamLU:Financial Planner:created=1764925282
+harperDiaz:$argon2id$v=19$m=65536,t=3,p=4$XkOpnk+qAXltmmdjGV7k1w$Wx1hW/vzMUHNGbaslII4s9pXUvv0IqM9RTj6CiPJvlc:Financial Planner:created=1764925282
+alexHayes:$argon2id$v=19$m=65536,t=3,p=4$CdKMeze6kUN0TRapzqqD1A$yUGAx79HCWVsvw1eLSCJ7kJkR+w4wOtqbyz8p3lIzhE:Teller:created=1764925282
+adairPatel:$argon2id$v=19$m=65536,t=3,p=4$ogqmgaNnbX+x91eONsKEpA$Ntbrc5tvJs48lcDy+Q0UW9GJsUB8a43f+kkQlZ3CKKs:Teller:created=1764925282
+testClient:$argon2id$v=19$m=65536,t=3,p=4$FBIkvE4g/4iVQCCLonKvdQ$YLVFXqB5VxdwCEH93oEl30UgNsOzwBPm4kh54IequxU:Client:created=1765008635
+testPremium:$argon2id$v=19$m=65536,t=3,p=4$x0acZWWZmhn/hf2aLZ975Q$dnow5Y4hNrbZ6MNhpmLP+RwgivGSPTbjdkTzHOM1s1M:Premium Client:created=1765008635
+testAdvisor:$argon2id$v=19$m=65536,t=3,p=4$ZGbNSxY5ImQsCkymAybE8w$CZSBkPRkkI+c22xJ3YZXGb4tj95ZqwvsAzxWfJwRFjs:Financial Advisor:created=1765008635
+testPlanner:$argon2id$v=19$m=65536,t=3,p=4$2qczazbLveOLX2rPN5wAsA$JwOw+maFq1/34HcZUafa1j3CMR8aUZqSd44zdkGN/K4:Financial Planner:created=1765008635
+testTeller:$argon2id$v=19$m=65536,t=3,p=4$YXpBuO/8A/V418F48iyW5g$bv3OI48XfgojstE30b5feALQI9gjDiGa7z5pTwCcGzQ:Teller:created=1765008635
+Sal:$argon2id$v=19$m=65536,t=3,p=4$lToRF2T6YmHViLK3fsRGWQ$8TIJp6i+MqPYg8zkQ15LIp94lSQ2kAKXToDDqhr7Rjk:Financial Planner:created=1765082118
